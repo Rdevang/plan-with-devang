@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/plan-with-devang/static/css/main.64c2556a.css",
+    "main.js": "/plan-with-devang/static/js/main.de529437.js",
+    "index.html": "/plan-with-devang/index.html",
+    "main.64c2556a.css.map": "/plan-with-devang/static/css/main.64c2556a.css.map",
+    "main.de529437.js.map": "/plan-with-devang/static/js/main.de529437.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64c2556a.css",
+    "static/js/main.de529437.js"
+  ]
+}
